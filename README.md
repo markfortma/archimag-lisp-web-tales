@@ -8,8 +8,8 @@ with sbcl, postgresql, and valkey (pka Redis).
 
 ## Special Notes
 
-In "Lisp Web Tales," the author uses <module>:start-<project>. My code exports as
-<module>:start-it/<module>:stop-it because I thought it redundant that the module and start function
+In "Lisp Web Tales," the author uses <<<module>>>:start-<<<project>>>. My code exports as
+<<<module>>>:start-it/<<<module>>>:stop-it because I thought it redundant that the module and start function
 would repeat the module name.
 
 ## Contents
@@ -53,9 +53,9 @@ This file is automatically updated by sbcl called via (ql:quickload ...)
 
 ## Related GitHub Repositories
 
-[cl-closure-template](https://github.com/archimag/cl-closure-template)
-[archimag/restas](https://github.com/archimag/restas)
-[archimag/restas-directory-publisher](https://github.com/archimag/restas-directory-publisher)
+* [cl-closure-template](https://github.com/archimag/cl-closure-template)
+* [archimag/restas](https://github.com/archimag/restas)
+* [archimag/restas-directory-publisher](https://github.com/archimag/restas-directory-publisher)
 
 ## Book Reference
 
