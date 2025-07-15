@@ -18,6 +18,8 @@ would repeat the module name.
 
 Code from Chapter 2 "The Basics"
 
+> blogdemo.lisp is also from it
+
 ### closure-hello/
 
 Code from Chapter 3 "HTML Generation and Templating"
