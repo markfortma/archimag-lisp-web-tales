@@ -8,8 +8,8 @@ with sbcl, postgresql, and valkey (pka Redis).
 
 ## Special Notes
 
-In "Lisp Web Tales," the author uses <<<module>>>:start-<<<project>>>. My code exports as
-<<<module>>>:start-it/<<<module>>>:stop-it because I thought it redundant that the module and start function
+In "Lisp Web Tales," the author uses {module}:start-{project}. My code exports as
+{module}:start-it/{module}:stop-it because I thought it redundant that the module and start function
 would repeat the module name.
 
 ## Contents
