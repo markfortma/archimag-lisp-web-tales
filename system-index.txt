@@ -1,0 +1,5 @@
+authdemo/authdemo.asd
+blogdemo/blogdemo.asd
+linkdemo/linkdemo.asd
+list-dir/list-dir.asd
+closure-hello/closure-hello.asd
