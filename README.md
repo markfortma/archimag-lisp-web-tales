@@ -3,8 +3,8 @@
 ## Description
 
 This repository is working code from "Lisp Web Tales" by Pavel Penev.
-It works on SBCL v2.5.6, and as of 14 Jul 2025, the code worked on Arch Linux 6.15.5-arch1-1
-with sbcl, postgresql, and valkey (pka Redis).
+It works on [SBCL](http://sbcl.org/) v2.5.6, and as of 14 Jul 2025, the code
+worked on Arch Linux 6.15.5-arch1-1 with sbcl, postgresql, and valkey (pka Redis).
 
 ## Special Notes
 
