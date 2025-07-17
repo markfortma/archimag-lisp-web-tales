@@ -61,4 +61,4 @@ This file is automatically updated by sbcl called via (ql:quickload ...)
 
 ## Book Reference
 
-[Lisp Web Tales](http://learnpub.com/lispwebtales) by Pavel Penev
+[Lisp Web Tales](https://leanpub.com/lispwebtales) by Pavel Penev
